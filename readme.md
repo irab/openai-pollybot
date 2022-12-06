@@ -1,0 +1,1 @@
+# Sample code to call the OpenAI API and synthesize it Polly - generated with GPT-3
